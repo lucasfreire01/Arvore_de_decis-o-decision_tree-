@@ -1,4 +1,4 @@
-## Regards Earthlings!
+## Regards Earthlings! 🖖
 **This is Lucas and I'm here to say somethings to you.**
 
     First:
@@ -8,3 +8,4 @@
             CTRL + F9.
                 This wil be to work all cells together.
         Click in that link bellow.👇
+<https://colab.research.google.com/drive/1qfxoEbJzz1L-2VvsYyVPPT2C0K8tn2-w>
